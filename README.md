@@ -13,6 +13,9 @@ The motivation behind this plugin was really just to make something that I would
 
 I looked at a lot of other distortion plugins to get some inspiration for mine. I looked at 'Decapitator' by Soundtoys, it has six knobs; drive, low cut, high cut, tone, mix and output. I also looked at Sonimus Burnley 73, which also has six knobs; an HP filter, gain, output and a 3 band EQ. Another plugin I looked at was one of the free Logic Pro X plugins called 'Distortion II', it has three knobs; pregain, drive and tone. All of these plugins used rotary sliders or knobs, as most analogue distortion units have knobs. They also all had pretty minimal controls which is something I was going for with mine as I wanted to kind of stick to my original idea of having RGB sliders so I kept mine to 4 sliders. 
 
+## Set Up
+
+In the zip folder there is a folder called "good_dog-font" inside this folder there is a file called "GOODDC__.TTF" you will need to install this font on to your computer before building the code.
 
 ## Acknowledgments
 
